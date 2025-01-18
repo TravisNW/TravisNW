@@ -15,7 +15,7 @@ I’m a biomedical graduate who is looking to transition into the tech industry,
 - <b>[Homelab Setup (CISCO Packet Tracer)](https://github.com/TravisNW/Homelab-Setup-Cisco-Packet-Tracer-)</b>
 
 
-<h2>What I'm Currently Doing 🚶</h2>
+<h2>🚶 What I'm Currently Doing</h2>
 
 - TryHackMe 
 - CTF
