@@ -6,7 +6,7 @@ I’m a biomedical graduate who is looking to transition into the tech industry,
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-- <b>[SIEM Setup(MISP to Sentinel Integration)](https://github.com/TravisNW/MISP2Sentinel-SIEM-Integration)</b>
+- <b>[SIEM Setup (MISP to Sentinel Integration)](https://github.com/TravisNW/MISP2Sentinel-SIEM-Integration)</b>
  
 - <b>Honeypot:</b>
 
