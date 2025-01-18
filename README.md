@@ -8,11 +8,11 @@ I’m a biomedical graduate who is looking to transition into the tech industry,
 
 - <b>[SIEM Setup (MISP to Sentinel Integration)](https://github.com/TravisNW/MISP2Sentinel-SIEM-Integration)</b>
  
-- <b>[Honeypot](https://github.com/TravisNW/Homelab-Setup-Cisco-Packet-Tracer-)</b>
+- <b>Honeypot</b>
 
 - <b>Malware Analysis:</b>
 
-- <b>Homelab Setup (CISCO Packet Tracer):</b>
+- <b>[Homelab Setup (CISCO Packet Tracer)](https://github.com/TravisNW/Homelab-Setup-Cisco-Packet-Tracer-):</b>
 
 
 <h2>What I'm Currently Doing 🚶</h2>
