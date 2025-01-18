@@ -8,7 +8,7 @@ I’m a biomedical graduate who is looking to transition into the tech industry,
 
 - <b>[SIEM Setup (MISP to Sentinel Integration)](https://github.com/TravisNW/MISP2Sentinel-SIEM-Integration)</b>
  
-- <b>Honeypot:</b>
+- <b>[Honeypot](https://github.com/TravisNW/Homelab-Setup-Cisco-Packet-Tracer-)</b>
 
 - <b>Malware Analysis:</b>
 
