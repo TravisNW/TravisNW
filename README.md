@@ -7,13 +7,13 @@ I’m a biomedical graduate who is looking to transition into the tech industry,
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - <b>MISP2Sentinel SIEM Integration:</b>
-  - [](https://github.com/joshmadakor1/Algorithms-Practice)
+ 
 - <b>Honeypot:</b>
-  - [](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) 
+
 - <b>Malware Analysis:</b>
-  - [](https://github.com/joshmadakor1/Sentinel-Lab)
+
 - <b>Homelab Setup (CISCO Packet Tracer):</b>
-  - [](https://github.com/joshmadakor1/EncrypterPOC)
+
 
 <h2>What I'm Currently Doing 🚶</h2>
 
