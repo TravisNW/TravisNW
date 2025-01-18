@@ -12,7 +12,7 @@ I’m a biomedical graduate who is looking to transition into the tech industry,
 
 - <b>Malware Analysis:</b>
 
-- <b>[Homelab Setup (CISCO Packet Tracer)](https://github.com/TravisNW/Homelab-Setup-Cisco-Packet-Tracer-):</b>
+- <b>[Homelab Setup (CISCO Packet Tracer)](https://github.com/TravisNW/Homelab-Setup-Cisco-Packet-Tracer-)</b>
 
 
 <h2>What I'm Currently Doing 🚶</h2>
