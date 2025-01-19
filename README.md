@@ -10,7 +10,7 @@ I’m a biomedical graduate who is looking to transition into the tech industry,
  
 - <b>[Honeypot](https://github.com/TravisNW/Honeypot-Azure-)</b> 
 
-- <b>Malware Analysis:</b>
+- <b>[Malware Analysis](https://github.com/TravisNW/Malware-Analysis)</b>
 
 - <b>[Homelab Setup (CISCO Packet Tracer)](https://github.com/TravisNW/Homelab-Setup-Cisco-Packet-Tracer-)</b>
 
